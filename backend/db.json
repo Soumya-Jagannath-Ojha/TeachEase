@@ -1,0 +1,31 @@
+{
+  "teachers": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "b9e0",
+      "teachername": "sser10",
+      "email": "demo@gmail.com",
+      "password": "1234",
+      "age": "26",
+      "subject": "React"
+    }
+  ],
+  "students": [
+    {
+      "id": "09e4",
+      "studentname": "peter",
+      "email": "peter@gmail.com",
+      "age": "22",
+      "subject": "MERN"
+    },
+    {
+      "id": "8449",
+      "studentname": "Harry Poter",
+      "email": "harry@gmail.com",
+      "age": "24",
+      "subject": "JAVA"
+    }
+  ]
+}
