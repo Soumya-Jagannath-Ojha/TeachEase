@@ -2,14 +2,22 @@
 
 ### **1️⃣ Clone the Repository**
 
-```bash
-git clone https://github.com/your-username/TeachEase.git
+### Installation
 
-```bash
-cd teachease
+1. Clone the repository:
 
-```bash
-npm install
+   ```bash
+   git clone https://github.com/Soumya-Jagannath-Ojha/Weather_App.git
 
-```bash
-npm run dev
+2. Navigate to the project directory:
+
+   ```bash
+   cd TeachEase
+
+3. Install the dependencies
+   ```bash
+   npm install
+
+3. Run
+   ```bash
+   npm run dev
