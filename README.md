@@ -7,7 +7,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Soumya-Jagannath-Ojha/Weather_App.git
+   git clone https://github.com/Soumya-Jagannath-Ojha/TeachEase.git
 
 2. Navigate to the project directory:
 
